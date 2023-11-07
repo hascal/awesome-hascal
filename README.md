@@ -1,2 +1,2 @@
-# awesome-hascal
-A curated list of awesome Hascal frameworks, libraries, software and resources.
+# Awesome Sacalon
+A curated list of awesome Sacalon frameworks, libraries, software and resources.
